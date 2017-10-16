@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>TCB Home</title>
+  <meta charset="utf-8">
+  <link rel="tcb stylesheet" href="tcbcss2.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+ <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+    <link href="../../../../dist/css/bootstrap.min.css" rel="stylesheet">
+ <link href="sticky-footer.css" rel="stylesheet">
+  
+<body>
+
+
+</nav>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+	 <a class="logo">
+        <img alt="logo" src="images/tcb.png"height="100" width="100" >
+      </a>
+ 
+ 
+    </div>
+    <ul class="nav navbar-nav">
+	<li><a href="tcbhome2,html">HOME</a></li>
+      <li class="active"><a href="#">ABOUT US</a></li>
+	  <li><a href="schedule.html">SCHEDULE</a></li>
+      <li><a href="join.html">JOIN US</a></li>
+      <li><a href="book.html">BOOK US</a></li>
+	  <li><a href="press.html">PRESS KIT</a></li>
+	  <li><a href="media.html">MEDIA</a></li>
+	  <li><a href="news.html">NEWS</a></li>
+    </ul>
+  </div>
+</nav>
+<h1>ABOUT US<h1>
+<h4><img src="images/portsmouth.jpg" alt="PORTSOUTH" align="left" height="370" width="500" style="PADDING-LEFT: 10px; PADDING-RIGHT: 10px;"> <p> The Tidewater Concert Band has provided musical entertainment ranging from Sousa Style March, Big Band, Swing, Blues, Broadway Musicals, etc.
+ in the Hampton Roads area since 1971. <p> Under the direction of Maestro Chris Serrano, the band is currently made up of musicians from every walk of life including local school band directors, band students, former and current
+ military musicians to form a fully-instrumented top-notch professional performing organization.<p>
+ The band has gone through many phases and musicians throughout its long history but still continues today to provide a high quality of music and service to the Hampton Roads community. 
+ The band provides music for the graduation ceremonies of Tidewater Community College, as well as, local parades, family celebrations, art shows, festivals, retirement-nursing homes and concert series.
+ <p> Always interested in welcoming new members, the group also welcomes new performance opportunities in the 7 cities. Take this time and bring this wonderful, entertaining musical group to your venue or next event!!&nbsp;  </h4>  
+<div>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<h1>OUR DIRECTOR</h1>
+</div>
+&nbsp;
+&nbsp;
+&nbsp;
+ <h4> <img src="images/chris.jpg" alt="chris" align="right" height="400" width="500" style= "PADDING-LEFT: 10px; PADDING-RIGHT: 10px;"> &nbsp;
+The current director of the Tidewater Concert band, Maestro Chris Serano.He has overseen TCB for over 6 years. Mr. Serano has been a professional percussionist for over 30 years.<p>
+Mr. Serano is the percussion intstructer in residence and Russel's Music World. He is also a prolific performer and works as the permanent drummer for the award winning blue band Billy Joe Trio. <p>
+ In addtion to performing and teaching, he manages a local booking agency, and is the founder and manager annual Virginia Drum show.</h4>
+ 
+
+
+	 <footer class="footer">
+      <div class="container">
+        <span class="text-muted">Tidewater Concert Band  (757)717-3111</span>
+      </div>
+    </footer> 
+
+
+</body>
+</html>
