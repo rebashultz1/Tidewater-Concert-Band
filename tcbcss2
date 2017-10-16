@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+}
+
+
+
+h1 {
+	text-align: center
+	
+}
+
+h2 {
+	text-align: center
+}
+
+.carousel-inner > .item > img {
+  width:640px;
+  height:360px;
+}
+.carousel-inner img {
+  margin: auto;
+}
+
+.row img {margin: auto;}
+
+
+.footer {
+	
+  position:fixed;
+  bottom:0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+.carousel-inner > .item > img {
+  width:640px;
+  height:360px;
+}
+.carousel-inner img {
+  margin: auto;
+}
