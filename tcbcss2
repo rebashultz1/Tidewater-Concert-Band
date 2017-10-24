@@ -1,27 +1,91 @@
-body {
-    background-color: white;
-}
-
+#body { 
+       background-color: black;
+        margin: 0 auto;
+        padding: 0;
+		
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
 
 
 h1 {
-	text-align: center
+	font-family: Vivaldi, cursive;
+	text-align: center;	
+	padding-top: 6px;
+	padding-bottom: 2px;
+
+}
+	
+div.panel.panel-primary {
+	margin: 0 auto;
 	
 }
 
-h2 {
-	text-align: center
+
+ 
+
+.wrapper {
+	 background-color: gainsboro;
+            width: 100%;
+			min-height: 1000 px;
+            margin: 0 auto;
+            text-align: center;
+            }
+			
+form { 
+margin: 0 auto; 
+width:80%
 }
 
-.carousel-inner > .item > img {
-  width:640px;
-  height:360px;
-}
-.carousel-inner img {
-  margin: auto;
+container {
+margin: 0 auto;
 }
 
-.row img {margin: auto;}
+.form-signin {
+    
+    padding: 15px;
+    margin: 0 auto;
+    margin-top:70px;
+  }
+
+.input-group-addon
+{
+    background-color: rgb(50, 118, 177);
+    border-color: rgb(40, 94, 142);
+    color: rgb(255, 255, 255);
+}
+
+.form-signup input[type="text"],.form-signup input[type="password"] { border: 1px solid rgb(50, 118, 177); }
+
+div#col1 {
+width: 5%;
+float: right;
+height: 1000px;
+}
+div#col2 {
+width: 90%;
+display: inline-block;
+}
+div#col3 {
+width: 5%;
+float: left;
+height: 1000px;
+}
+div#parentDiv {
+width: 100%;
+}
+
+
+	
+
+.input-group-addon
+{
+    background-color: rgb(50, 118, 177);
+    border-color: rgb(40, 94, 142);
+    color: rgb(255, 255, 255);
+}
+
+
+
 
 
 .footer {
@@ -37,10 +101,4 @@ h2 {
   background-color: black;
 }
 
-.carousel-inner > .item > img {
-  width:640px;
-  height:360px;
-}
-.carousel-inner img {
-  margin: auto;
-}
+
