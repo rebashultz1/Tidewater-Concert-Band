@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>TCB Home</title>
+   <!-- nav -->
+  <meta charset="utf-8">
+  <link rel="tcb stylesheet" href="tcbcss2.css">
+    <style>.carousel-inner > .item > img { width:80%; height:80%; margin:auto; } </style>
+	<table style="margin: 0px auto;"></table>
+	
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!-- footer -->
+   <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+    <link href="../../../../dist/css/bootstrap.min.css" rel="stylesheet">
+ <link href="sticky-footer.css" rel="stylesheet">
+ 
+	
+	
+	
+  </head>
+<body id="body">
+<div class="wrapper">
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+	 <a class="logo">
+        <img alt="logo" src="images/tcb.png"height="100" width="100" >
+      </a>
+ 
+ 
+ 
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="tcbhome2.html">HOME</a></li>
+      <li><a href="about.html">ABOUT US</a></li>
+	  <li class="active"><a href="#">SCHEDULE</a></li>
+      <li><a href="join.html">JOIN US</a></li>
+      <li><a href="book.html">BOOK US</a></li>
+	  <li><a href="press.html">PRESS KIT</a></li>
+	  <li><a href="media.html">MEDIA</a></li>
+	  <li><a href="news.html">NEWS</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+<div id="parentDiv">
+<div id="col1">
+</div>
+<div id="col2">
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 col-md-offset-3">
+        <div class="panel panel-default">
+        <div class="panel panel-primary">
+        
+            <h3 class="text-center">
+                        Schedule</h3>
+        
+        <div class="panel-body">    
+ 
+ 
+ <table class="table">
+                  <thead>
+                  <tr>
+                      <th>Date</th>
+                      <th>Time</th>
+                      <th>Address</th>
+                      <th>More Information</th>
+                     
+                  </tr>
+              </thead>   
+              <tbody>
+                <tr>
+                    
+                    <td>Satuday 11/11/2017</td>
+                    <td>11:00 AM</td>
+                    <td>ENd of High Street Portsmouth, VA</td>
+                    <td><a href="" class="btn btn-sm btn-primary btn-block" role="button">More Information</a></td>
+                 
+                                                         
+                </tr>
+                <tr>
+                    
+                   <td>Satuday 11/11/2017</td>
+                    <td>11:00 AM</td>
+                    <td>ENd of High Street Portsmouth, VA</td>
+                    <td><a href="" class="btn btn-sm btn-primary btn-block" role="button">More Information</a></td>
+              
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                   
+           
+                       <td><a href="" class="btn btn-sm btn-primary btn-block" role="button">More Information</a></td>
+                </tr>
+                <tr>
+                
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+      
+                      <td><a href="" class="btn btn-sm btn-primary btn-block" role="button">More Information</a></td>
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+         
+                      <td><a href="" class="btn btn-sm btn-primary btn-block" role="button">More Information</a></td>
+                  
+                </tr>
+        
+              </tbody>
+              
+  </div>
+       </div>
+        </div>
+    </div>
+</div>
+</form>
+              
+            </table>
+
+</div>
+<div id="col3">
+
+</div>
+ </div>
+
+    <footer class="footer">
+	
+      <div class="container">
+        <span class="text-muted">Tidewater Concert Band  (757)717-3111</span>
+      </div>
+    </footer>
+</div>
+ 
+</body>
+</html>
