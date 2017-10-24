@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>TCB Home</title>
+   <!-- nav -->
+  <meta charset="utf-8">
+  <link rel="tcb stylesheet" href="tcbcss2.css">
+    <style>.carousel-inner > .item > img { width:80%; height:80%; margin:auto; } </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!-- footer -->
+   <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+    <link href="../../../../dist/css/bootstrap.min.css" rel="stylesheet">
+ <link href="sticky-footer.css" rel="stylesheet">
+ <!-- carousel -->
+ <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Carousel Template for Bootstrap</title>
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+ <link href="carousel.css" rel="stylesheet">
+	
+	
+	
+  </head>
+<body id="body">
+<div class="wrapper">
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+	 <a class="logo">
+        <img alt="logo" src="images/tcb.png"height="100" width="100" >
+      </a>
+ 
+ 
+ 
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="tcbhome2.html">HOME</a></li>
+      <li><a href="about.html">ABOUT US</a></li>
+	  <li><a href="schedule.html">SCHEDULE</a></li>
+      <li><a href="join.html">JOIN US</a></li>
+      <li><a href="book.html">BOOK US</a></li>
+	  <li><a href="press.html">PRESS KIT</a></li>
+	  <li><a href="media.html">MEDIA</a></li>
+	  <li class="active"><a href="#">NEWS</a></li>
+    </ul>
+  </div>
+</nav>
+
+<h1>In the News</h1>
+<img src="images/In the news.jpg" >
+
+<blockquote class="embedly-card"><h4><a href="https://pilotonline.com/tidewater-concert-band/image_5f505a9d-d458-5a43-aee2-ee1b76aaf239.html">Tidewater Concert Band Virginian Pilot</a></h4><p>The Tidewater Concert Band, as shown at Willett Hall last year.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+<blockquote class="embedly-card"><h4><a href="https://pilotonline.com/news/local/inside-portsmouth-suffolk/tidewater-concert-band-looking-for-a-few-good-players/article_defdf793-0d00-5c36-ae81-16d5da821160.html?__vfz=medium%3Dsharebar">Tidewater Concert Band looking for a few good players</a></h4><p>My tuba mouthpiece clunked loudly to the floor yet again, this time while the band director was talking. "Leave it Crow! It can't fall off the floor," our slightly tyrannical leader said. My high school band had more than 100, so keeping order was understandably important.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card"><h4><a href="http://www.portsvaevents.com/events/holiday-harmony-featuring-tidewater-concert-band-and-special-guest-eric-taylor/">Holiday Harmony Featuring Tidewater Concert Band and Special Guest Eric Taylor</a></h4><p>A holiday concert with holiday music for the entire family. This special holiday performance will feature many of your holiday favorites. Free and open to the public. For more information please call 757-393-5460.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+
+    <footer class="footer">
+	
+      <div class="container">
+        <span class="text-muted">Tidewater Concert Band  (757)717-3111</span>
+      </div>
+    </footer>
+</div>
+ 
+</body>
+</html>
