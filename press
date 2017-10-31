@@ -2,41 +2,31 @@
 <html lang="en">
 <head>
   <title>TCB Home</title>
-   <!-- nav -->
   <meta charset="utf-8">
   <link rel="tcb stylesheet" href="tcbcss2.css">
-    <style>.carousel-inner > .item > img { width:80%; height:80%; margin:auto; } </style>
+    <style>.carousel-inner > .item > img { width:80%; height:80%; margin:auto;} </style>
+	<style> ul { display:table; margin:0 auto;}  </style>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <!-- footer -->
    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+ <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
     <link href="../../../../dist/css/bootstrap.min.css" rel="stylesheet">
  <link href="sticky-footer.css" rel="stylesheet">
- <!-- carousel -->
- <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
-
-    <title>Carousel Template for Bootstrap</title>
-    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
- <link href="carousel.css" rel="stylesheet">
-	
-	
-	
-  </head>
+  
 <body id="body">
 <div class="wrapper">
 
+</nav>
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -45,44 +35,66 @@
       </a>
  
  
- 
     </div>
     <ul class="nav navbar-nav">
-      <li><a href="tcbhome2.html">HOME</a></li>
-      <li><a href="about.html">ABOUT US</a></li>
+	<li><a href="tcbhome2.html">HOME</a></li>
+	  <li><a href="about.html">ABOUT US</a></li>
 	  <li><a href="schedule.html">SCHEDULE</a></li>
       <li><a href="join.html">JOIN US</a></li>
       <li><a href="book.html">BOOK US</a></li>
 	  <li><a href="press.html">PRESS KIT</a></li>
+	  <li class="active"><a href="#">PRESS KIT</a></li> 
 	  <li><a href="media.html">MEDIA</a></li>
-	  <li class="active"><a href="#">NEWS</a></li>
+	  <li><a href="news.html">NEWS</a></li>
     </ul>
   </div>
 </nav>
 
-<h1>In the News</h1>
-<img src="images/In the news.jpg" >
 
-<blockquote class="embedly-card"><h4><a href="https://pilotonline.com/tidewater-concert-band/image_5f505a9d-d458-5a43-aee2-ee1b76aaf239.html">Tidewater Concert Band Virginian Pilot</a></h4><p>The Tidewater Concert Band, as shown at Willett Hall last year.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<h1>Press Kit</h1> 
+<img src="images/tcb formal.jpg" alt="tcb formal" align="left"  style="PADDING-LEFT: 5px; PADDING-RIGHT: 5px; padding-bottom 5px;">
+<br>
+<h4> The Tidewater Concert Band has provided musical entertainment ranging from Sousa Style Marches, Big Band, Swing, Blues, Broadway Musicals, etc. in the Hampton Roads area since 1971. Currently under the direction of Maestro Chris Serrano and Associate Conductor Josiah Wilson, the band is currently made up of volunteer musicians from every walks of life including local school band directors, band students, former and current military musicians... to form a fully-instrumented top-notch professional performing organization. 
 
+The band has gone through many changes, phases and musicians throughout its long history but still continues today to provide a high quality of music and service to the Hampton Roads community. The band provides music for graduation ceremonies, as well as, local parades, family celebrations, art shows, festivals, retirement-nursing homes and concert series. The group always welcomes new performance opportunities in the 7 cities.
+Take this time and bring this wonderful, entertaining musical group to your venue or next event!! Please call Chris Serano at 757-717-3111. </h4>
 
-<blockquote class="embedly-card"><h4><a href="https://pilotonline.com/news/local/inside-portsmouth-suffolk/tidewater-concert-band-looking-for-a-few-good-players/article_defdf793-0d00-5c36-ae81-16d5da821160.html?__vfz=medium%3Dsharebar">Tidewater Concert Band looking for a few good players</a></h4><p>My tuba mouthpiece clunked loudly to the floor yet again, this time while the band director was talking. "Leave it Crow! It can't fall off the floor," our slightly tyrannical leader said. My high school band had more than 100, so keeping order was understandably important.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<br>
+<br>
+<br>
 
-<blockquote class="embedly-card"><h4><a href="http://www.portsvaevents.com/events/holiday-harmony-featuring-tidewater-concert-band-and-special-guest-eric-taylor/">Holiday Harmony Featuring Tidewater Concert Band and Special Guest Eric Taylor</a></h4><p>A holiday concert with holiday music for the entire family. This special holiday performance will feature many of your holiday favorites. Free and open to the public. For more information please call 757-393-5460.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+ <h2> Interested in have TCB at your Venue or Event? </h2>
+ <br>
+ <h4> The Tidewater Concert Band can provide entertainment for a variety of audiences. Our concert lengths can vary from single short program performances to extended features with periodic breaks.
+ The following programs are avaiable: </h4>
+ <ul>
+  <ul style="list-style-type:none"> 
+  
 
+    <li><a href="https://www.youtube.com/watch?v=CtKin3e2I5M"><h3>Holiday Music</h3> </a> <p>From Traditional and Sacred to Delightful and fun, TCB can make make your holidays bright ! </li>
+   <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/68953343&amp;color=%230066cc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+   <li><a href="https://www.youtube.com/watch?v=FsO5mXw3IwE"><h3>Patriotic Music</h3></a><p>From Stars and Stripes to Anchors Away, TCB is the perfect fit for any Military Ceremony or July fourth Celebration.</ h3>       </li>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343743989&amp;color=%230066cc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+  <li><a href="https://www.youtube.com/watch?v=XEz9Ozt0Y4Y"><h3>Traditional</h3></a><p> Looking for the bygone era of the roaring 20's? Do you want to recreate the big band sound of the 30's and 40's? <br> The Tidewater Concert Band and Provide period Jazz, Dance, or Swing for your event or festival. </li>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343744002&amp;color=%230066cc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+<h2> Please see our one page Promotional Handout available to print or share <h2>
 
+<button>
+    <a href="images/tcb handout.pdf">Click to Download Handout</a>
+</button>
 
+</br>
+</br>
 
-    <footer class="footer">
-	
+ <div class="myelement"> 
+</div>
+</div 
+	 <footer class="footer">
       <div class="container">
         <span class="text-muted">Tidewater Concert Band  (757)717-3111</span>
       </div>
-    </footer>
-</div>
- 
+    </footer> 
+
+
 </body>
 </html>
