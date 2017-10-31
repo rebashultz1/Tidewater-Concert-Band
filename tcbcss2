@@ -1,19 +1,29 @@
 #body { 
-       background-color: black;
-        margin: 0 auto;
+  
+width: 100%;
+height: auto;
+
+background-color: black;
+margin: 0 auto;
         padding: 0;
 		
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         }
 
 
-h1 {
-	font-family: Vivaldi, cursive;
-	text-align: center;	
-	padding-top: 6px;
-	padding-bottom: 2px;
+h1 { font-family: "Comic Sans MS", cursive, sans-serif; 
+     text-align: center;
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+	
+}		
 
-}
+h2 {text-align: center;}
 	
 div.panel.panel-primary {
 	margin: 0 auto;
@@ -24,11 +34,16 @@ div.panel.panel-primary {
  
 
 .wrapper {
-	 background-color: gainsboro;
-            width: 100%;
-			min-height: 1000 px;
-            margin: 0 auto;
-            text-align: center;
+	 background-color: gainsboro;      
+padding:0px;
+margin:0px;
+ position: absolute;
+ 
+    top: 0px;
+    width: 100 %;
+    min-height: 100%;
+    z-index: inherit;
+}
             }
 			
 form { 
